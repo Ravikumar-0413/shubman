@@ -9,6 +9,7 @@
     position: fixed; 
     overflow: scroll;
     scrollbar-width: none;
+      background-color: lightslategray;
 
     
 }
@@ -91,3 +92,4 @@ footer {
     /* gap: 10px; */
     z-index: 999; 
 }
+
